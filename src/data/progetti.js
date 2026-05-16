@@ -52,7 +52,7 @@ export const PROGETTI = [
     soluzioni: ['Allenamento personalizzato', 'Coaching vocale e fisico (IA + umano)', 'Adattamento a motivazione e nutrizione', 'Monitoraggio biometrico continuo'],
     strumenti: ['Concept design', 'Ricerca', 'IA generativa'],
     contesto: 'Concorso U.S.S.A. · Alto Adige',
-    immagine: null,
+    immagine: '/progetti/ussa.png',
   },
   {
     id: 'admo',
@@ -67,7 +67,7 @@ export const PROGETTI = [
     soluzioni: ['Content strategy social', 'Aggiornamento sito web', 'Gestione dati associativi'],
     strumenti: ['Canva', 'Social media manager', 'CMS'],
     contesto: 'Volontariato · Bolzano',
-    immagine: null,
+    immagine: '/progetti/admo.png',
   },
   {
     id: 'camfilm',
@@ -82,7 +82,7 @@ export const PROGETTI = [
     soluzioni: ['Allestimento set', 'Logistica di scena', 'Coordinamento reparti'],
     strumenti: ['Gestione operativa', 'Problem solving', 'Teamwork'],
     contesto: 'Esperienza professionale · Cinema',
-    immagine: null,
+    immagine: '/progetti/valanga.png',
   },
   {
     id: 'hill-of-vision',
@@ -97,7 +97,7 @@ export const PROGETTI = [
     soluzioni: [],
     strumenti: ['Recitazione', 'Baseball'],
     contesto: 'Produzione cinematografica',
-    immagine: null,
+    immagine: '/progetti/hov.png',
   },
   {
     id: 'microgate',
@@ -112,7 +112,7 @@ export const PROGETTI = [
     soluzioni: ['Produzione hardware', 'Collaudo elettronico', 'Riparazione dispositivi'],
     strumenti: ['Elettronica', 'Strumenti di laboratorio', 'Testing'],
     contesto: 'PCTO + Tirocinio · 2024',
-    immagine: null,
+    immagine: '/progetti/microgate.png',
   },
   {
     id: 'arbitro',
@@ -127,7 +127,7 @@ export const PROGETTI = [
     soluzioni: [],
     strumenti: ['Regolamento FIBS', 'Comunicazione', 'Decision making'],
     contesto: 'Federazione Italiana Baseball Softball',
-    immagine: null,
+    immagine: '/progetti/cna.png',
   },
   {
     id: 'animatore',
@@ -142,6 +142,6 @@ export const PROGETTI = [
     soluzioni: [],
     strumenti: ['Pedagogia ludica', 'Sport educativo', 'Gestione gruppi'],
     contesto: 'Volontariato + Lavoro estivo',
-    immagine: null,
+    immagine: '/progetti/animatore.png',
   },
 ];
