@@ -7,7 +7,7 @@ export const PROFILO = {
   email: 'jacopotagliazuccainfo@gmail.com',
   telefono: '+39 331 424 4543',
   linkedinLabel: 'Jacopo Tagliazucca',
-  linkedinUrl: 'https://www.linkedin.com/in/jacopo-tagliazucca/', // ← SOSTITUISCI con il tuo URL reale
+  linkedinUrl: 'https://www.linkedin.com/in/jacopo-tagliazucca-98b961396/', // ← SOSTITUISCI con il tuo URL reale
   cvPdf: '/cv.pdf',
   lingue: [
     { nome: 'Italiano', livello: 'Madrelingua' },
