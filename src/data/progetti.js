@@ -22,7 +22,7 @@ export const PROGETTI = [
     soluzioni: ['Chat integrata con AI', 'Calendarizzazione condivisa', 'Scheda paziente automatica', 'Sezione conoscenza studio'],
     strumenti: ['Figma', 'Adobe Suite', 'Value Proposition Design'],
     contesto: 'Corso di Semiotica della rappresentazione visiva · UniTn',
-    immagine: null, // metti '/progetti/psinote.png' quando hai l'immagine in public/progetti/
+    immagine: '/progetti/psinote.png', // metti '/progetti/psinote.png' quando hai l'immagine in public/progetti/
   },
   {
     id: 'sociologia',
