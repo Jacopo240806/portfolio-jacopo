@@ -22,7 +22,7 @@ export const PROGETTI = [
     soluzioni: ['Chat integrata con AI', 'Calendarizzazione condivisa', 'Scheda paziente automatica', 'Sezione conoscenza studio'],
     strumenti: ['Figma', 'Adobe Suite', 'Value Proposition Design'],
     contesto: 'Corso di Semiotica della rappresentazione visiva · UniTn',
-    immagine: '/progetti/psinote.png', // metti '/progetti/psinote.png' quando hai l'immagine in public/progetti/
+    immagine: '/progetti/psinotep.png', // metti '/progetti/psinote.png' quando hai l'immagine in public/progetti/
   },
   {
     id: 'sociologia',
@@ -37,7 +37,7 @@ export const PROGETTI = [
     soluzioni: ['Efficienza amministrativa', 'Supporto più che mediazione', 'Sovranità del dato', 'Rete sociale anziché mercificazione'],
     strumenti: ['Questionari', 'Interviste', 'Analisi qualitativa', 'IA generativa'],
     contesto: 'Corso di Sociologia della comunicazione · UniTn',
-    immagine: null,
+    immagine: '/progetti/psinotes.png',
   },
   {
     id: 'ussa',
