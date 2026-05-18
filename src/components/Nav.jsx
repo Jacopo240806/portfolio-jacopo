@@ -29,10 +29,16 @@ export default function Nav({ dark, setDark, sezioneAttiva, scrollA, theme }) {
               <button
                 key={v.id}
                 onClick={() => scrollA(v.id)}
-                className={`px-3 py-2 rounded-full transition-all ${attivo ? 'font-medium' : theme.textMuted}`}
+                className={`relative px-3 py-2 rounded-full transition-all group ${attivo ? 'font-medium' : theme.textMuted}`}
                 style={attivo ? { backgroundColor: '#C5F44E', color: '#0a0a0a' } : {}}
               >
                 {v.label}
+                {!attivo && (
+                  <span
+                    className="absolute bottom-1 left-3 right-3 h-px bg-current origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-300"
+                    aria-hidden="true"
+                  />
+                )}
               </button>
             );
           })}
