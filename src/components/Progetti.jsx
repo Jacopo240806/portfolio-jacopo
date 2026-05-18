@@ -37,9 +37,8 @@ export default function Progetti({ theme, reducedMotion }) {
                   onClick={() => setFiltro(cat.id)}
                   role="tab"
                   aria-selected={attivo}
-                  className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-sm border transition-all ${
-                    attivo ? 'border-transparent font-medium' : `${theme.border} ${theme.textMuted}`
-                  }`}
+                  className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-sm border transition-all ${attivo ? 'border-transparent font-medium' : `${theme.border} ${theme.textMuted}`
+                    }`}
                   style={attivo ? { backgroundColor: '#C5F44E', color: '#0a0a0a' } : {}}
                 >
                   {Icon && <Icon className="w-3.5 h-3.5" />}
@@ -54,8 +53,7 @@ export default function Progetti({ theme, reducedMotion }) {
               <button
                 key={p.id}
                 onClick={() => setAperto(p)}
-                className={`group text-left p-8 rounded-2xl border ${theme.border} ${theme.cardBg} transition-all duration-300 hover:border-accent`}
-              >
+                className={`group text-left p-8 rounded-2xl border ${theme.border} ${theme.cardBg} transition-all duration-300 hover:border-accent hover:-translate-y-1 hover:shadow-xl ${theme.dark ? 'hover:shadow-black/50' : 'hover:shadow-neutral-300/40'}`}              >
                 <div className="flex items-start justify-between mb-8">
                   <span className={`text-xs uppercase tracking-widest ${theme.textMuted}`}>{p.tag}</span>
                   <ArrowUpRight className="w-5 h-5 group-hover:rotate-45 transition-transform duration-300" />
