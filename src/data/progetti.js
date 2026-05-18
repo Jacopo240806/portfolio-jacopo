@@ -52,7 +52,7 @@ export const PROGETTI = [
     soluzioni: ['Allenamento personalizzato', 'Coaching vocale e fisico (IA + umano)', 'Adattamento a motivazione e nutrizione', 'Monitoraggio biometrico continuo'],
     strumenti: ['Concept design', 'Ricerca', 'IA generativa'],
     contesto: 'Concorso U.S.S.A. · Alto Adige',
-    immagine: '/progetti/ussa.png',
+    immagine: '/progetti/secondo.png',
   },
   {
     id: 'admo',
