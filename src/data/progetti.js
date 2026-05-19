@@ -59,7 +59,7 @@ export const PROGETTI = [
     categoria: 'social',
     tag: 'Social Media',
     titolo: 'ADMO Alto Adige',
-    sottotitolo: 'Curatela web e social per il volontariato.',
+    sottotitolo: 'Curatore web e social per il volontariato.',
     anno: '2023',
     ruolo: 'Curatore Web e Social Media · Volontario',
     team: 'ADMO Provincia Alto Adige',
