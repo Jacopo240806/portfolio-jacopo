@@ -136,7 +136,7 @@ export const PROGETTI = [
     titolo: 'Animatore Ludico Sportivo',
     sottotitolo: '13 settimane estive con bambini e ragazzi (5–15 anni).',
     anno: '2022–2025',
-    ruolo: 'Animatore · Istruttore di baseball e ping pong',
+    ruolo: 'Animatore · Istruttore di baseball e altri sport',
     team: 'SSV Bozen · U.S.S.A. · EstaTennis Bolzano',
     descrizione: 'Cinque estati come animatore ludico-sportivo in diverse associazioni di Bolzano. Nel 2025 ho conseguito il Diploma Nazionale di Operatore Ludico Sportivo (Accademia Telematica Fitness / Albo Nazionale Libertas), qualifica tecnica di Allenatore — ginnastica per tutti.',
     soluzioni: [],
