@@ -16,9 +16,9 @@ export const PROFILO = {
     { nome: 'Spagnolo', livello: 'Base' },
   ],
   numeriChiave: [
-    { valore: '3', label: 'lingue oltre l\'italiano' },
-    { valore: '13', label: 'settimane di animazione estiva' },
-    { valore: '2°', label: 'classificato concorso U.S.S.A.' },
-    { valore: 'Serie B', label: 'baseball — Bolzano BC' },
-  ],
+  { valore: '3', label: 'lingue oltre l\'italiano' },
+  { valore: '6', label: 'settimane di animazione estiva' },
+  { valore: '2°', label: 'classificato concorso U.S.S.A.' },
+  { valore: '2', label: 'progetti per il sociale' }, // ← NUOVO (sostituisci "Serie B" se vuoi)
+],
 };
