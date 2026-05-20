@@ -153,7 +153,7 @@ export const PROGETTI = [
     anno: '2025',
     ruolo: 'Designer · Concept · Layout',
     team: 'Progetto personale per la laurea di mia sorella',
-    descrizione: 'Locandina realizzata in occasione della laurea di mia sorella per promuovere una raccolta fondi a sostegno di GEA — Casa delle Donne, struttura residenziale che accoglie e protegge donne e figli/figlie in fuga da situazioni di violenza. Il design unisce un\'illustrazione femminile a tutta pagina, una tipografia serif espressiva per il claim "non sei sola" e un QR-code che porta direttamente alla donazione online. La palette gioca su tonalità calde di rosso e bordeaux per richiamare forza e protezione.',
+    descrizione: 'Locandina realizzata in occasione di una festa di laurea in ostetricia per promuovere una raccolta fondi a sostegno di GEA — Casa delle Donne, struttura residenziale che accoglie e protegge donne e figli/figlie in fuga da situazioni di violenza. Il design unisce un\'illustrazione femminile a tutta pagina, una tipografia serif espressiva per il claim "non sei sola" e un QR-code che porta direttamente alla donazione online. La palette gioca su tonalità calde di rosso e bordeaux per richiamare forza e protezione.',
     soluzioni: [
       'Claim emotivo e diretto',
       'Illustrazione iconica a piena pagina',
@@ -173,7 +173,7 @@ export const PROGETTI = [
     anno: '2025',
     ruolo: 'Designer · Concept · Layout',
     team: 'Progetto personale per la laurea di mia sorella',
-    descrizione: 'Locandina realizzata per promuovere il lavoro dell\'Associazione Prematuri Alto Adige, che supporta i genitori nei momenti difficili legati alla nascita di un bambino settimane o mesi prima del previsto. Il design adotta un tono delicato e accogliente: illustrazioni infantili in stile acquerello, tipografia handwritten per dare calore umano, palette pastello su sfondo bianco. Il QR-code permette di sostenere l\'associazione con una donazione online.',
+    descrizione: 'Locandina realizzata in occasione di una festa di laurea in ostetricia per promuovere il lavoro dell\'Associazione Prematuri Alto Adige, che supporta i genitori nei momenti difficili legati alla nascita di un bambino settimane o mesi prima del previsto. Il design adotta un tono delicato e accogliente: illustrazioni infantili in stile acquerello, tipografia handwritten per dare calore umano, palette pastello su sfondo bianco. Il QR-code permette di sostenere l\'associazione con una donazione online.',
     soluzioni: [
       'Tono visivo delicato e accogliente',
       'Illustrazioni infantili in acquerello',
