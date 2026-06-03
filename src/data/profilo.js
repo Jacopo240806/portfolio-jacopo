@@ -17,7 +17,7 @@ export const PROFILO = {
   ],
   numeriChiave: [
   { valore: '3', label: 'lingue oltre l\'italiano' },
-  { valore: '6', label: 'settimane di animazione estiva' },
+  { valore: '13', label: 'settimane di animazione estiva' },
   { valore: '2°', label: 'classificato concorso U.S.S.A.' },
   { valore: '2', label: 'progetti per il sociale' }, // ← NUOVO (sostituisci "Serie B" se vuoi)
 ],
